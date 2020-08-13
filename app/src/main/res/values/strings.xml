@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lab5_6</string>
+    <string name="tv_Titulo">Cartera de Clientes</string>
+    <string name="tv_TituloBusqueda">Busqueda de Cliente</string>
+    <string name="tv_TituloBorrar">Eliminar Cliente</string>
+    <string name="tv_TituloModificar">Modificar Cliente</string>
+
+    <string name="BotonNuevoCliente">Nuevo Cliente</string>
+    <string name="BotonBuscarCliente">Buscar Cliente</string>
+    <string name="BotonModificarCliente">Modificar Cliente</string>
+    <string name="BotonEliminarCliente">Eliminar Cliente</string>
+    <string name="tv_Titulo_Registrar">Registrar Nuevo Cliente</string>
+    <string name="NombreNuevoCliente">Nombre</string>
+    <string name="DireccionNuevoCliente">Direccion</string>
+    <string name="EmailNuevoCliente">Email</string>
+    <string name="NumeroNuevoCliente">Numero</string>
+    <string name="BotonRegistarCliente">Registrar</string>
+    <string name="BotonAtras">Atras</string>
+
+    <string name="BotonBuscar">Buscar</string>
+    <string name="BotonEliminar">Eliminar</string>
+    <string name="BotonModificar">Modificar</string>
+
+    <string name="NombreCliente">Nombre</string>
+    <string name="DireccionCliente">Direccion</string>
+    <string name="EmailCliente">Email</string>
+    <string name="NumeroCliente">Numero</string>
+
+</resources>
